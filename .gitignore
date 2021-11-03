@@ -16,3 +16,4 @@ doc/api/
 *.iml
 pubspec.lock
 .DS_Store
+flutter_export_environment.sh
